@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout"
+    tools:context=".Imagetopdf">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:scaleType="center"
+        android:id="@+id/image_view"
+        android:src="@drawable/ic_outline_image_24"
+        android:layout_margin="15dp"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_btn"
+        android:layout_margin="25dp"
+        android:text="Select Image"
+        android:textColor="#fff"
+        android:textAllCaps="false"
+        android:id="@+id/button"
+        android:layout_below="@+id/image_view"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_btn"
+        android:layout_margin="25dp"
+        android:text="Save as PDF"
+        android:textColor="#fff"
+        android:textAllCaps="false"
+        android:id="@+id/button2"
+        android:layout_below="@+id/button"
+        />
+
+
+
+</RelativeLayout>

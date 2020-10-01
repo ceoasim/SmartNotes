@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804235786717",
+    "firebase_url": "https://textrecognition-134d6.firebaseio.com",
+    "project_id": "textrecognition-134d6",
+    "storage_bucket": "textrecognition-134d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804235786717:android:dbbf2ff421ef78fee49e34",
+        "android_client_info": {
+          "package_name": "com.rashid.ocrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804235786717-um9s150ef6bj4d0pnotdijrlh82pfsfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rashid.ocrapp",
+            "certificate_hash": "5f1d5a76ea5bf2feea213d998f959d332e11d4ae"
+          }
+        },
+        {
+          "client_id": "804235786717-vl8i2i0k3p93io9ef1gkglnd7p4qii3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAenUbqGyoLJ0LWMCWIOzmdHZcqdvkS98Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804235786717-vl8i2i0k3p93io9ef1gkglnd7p4qii3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
